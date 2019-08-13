@@ -1,4 +1,4 @@
-const favouritesEndpoint = 'http://my-json-server.typicode.com/wku-trent/hello/favourites';
+const favouritesEndpoint = 'https://my-json-server.typicode.com/wku-trent/hello/favourites';
 
 function onLoad() {
   loadFavorites();
