@@ -1,0 +1,24 @@
+{
+  "favourites": [
+    {
+      "id": 1,
+      "name": "Singapore"
+    },
+    {
+      "id": 2,
+      "name": "Bangkok"
+    },
+    {
+      "id": 3,
+      "name": "Bali"
+    },
+    {
+      "id": 4,
+      "name": "Kuala Lumpur"
+    },
+    {
+      "id": 5,
+      "name": "Manila"
+    }
+  ]  
+}
