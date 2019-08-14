@@ -1,24 +1,39 @@
 {
   "favourites": [
     {
-      "id": 1,
-      "name": "Singapore"
+      "name": "Singapore",
+      "location": {
+        "lat": 1.290270,
+        "lng": 103.851959
+      }
     },
     {
-      "id": 2,
-      "name": "Bangkok"
+      "name": "Bangkok",
+      "location": {
+        "lat": 13.736717,
+        "lng": 100.523186
+      }
     },
     {
-      "id": 3,
-      "name": "Bali"
+      "name": "Bali",
+      "location": {
+        "lat": -8.409518,
+        "lng": 115.188919
+      }
     },
     {
-      "id": 4,
-      "name": "Kuala Lumpur"
+      "name": "Kuala Lumpur",
+      "location": {
+        "lat": 3.140853,
+        "lng": 101.693207
+      }
     },
     {
-      "id": 5,
-      "name": "Manila"
+      "name": "Manila",
+      "location": {
+        "lat": 14.599512,
+        "lng": 120.984222
+      }
     }
-  ]  
+  ]
 }
